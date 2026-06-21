@@ -1,0 +1,28 @@
+PhoneResponsive={"785":{
+"pageLayer":{"w":785,"h":450,"bgColor":"#f9cb9c"}
+,
+"button321333":{"x":333,"y":350,"w":119.000000,"h":48.000000,"stylemods":[{"sel":"div.button321333Text","decl":" { position:fixed; left:4px; top:2px; width:110px; height:43px;}"},{"sel":"span.button321333Text","decl":" { display:table-cell; position:relative; width:110px; height:43px; vertical-align:middle; text-align:center; line-height:7px; font-size:7px; font-family:\"Lucida Sans Unicode\"; color:#ffffff;}"}],"bOffBottom":0  ,"td": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHcAAAAwCAYAAAArZOVeAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAtSURBVHhe7cEBDQAAAMKg909tDjcgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgGs1WXAAATCiJv4AAAAASUVORK5CYII=" ,"tdO": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHcAAAAwCAYAAAArZOVeAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAtSURBVHhe7cEBDQAAAMKg909tDjcgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgGs1WXAAATCiJv4AAAAASUVORK5CYII=" ,"tdD": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHkAAAAyCAYAAAB4ZXTmAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAuSURBVHhe7cEBAQAAAIIg/69uSEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFyrAV66AAHZ/BlQAAAAAElFTkSuQmCC" ,"tdDi": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHcAAAAwCAYAAAArZOVeAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAtSURBVHhe7cEBDQAAAMKg909tDjcgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgGs1WXAAATCiJv4AAAAASUVORK5CYII="  ,"fd": "" ,"fdO": "" ,"fdD": "" ,"fdDi": "" ,"p": "M 11.000000 0.000000 L 107.000000 0.000000 L 109.250000 0.250000 L 111.312500 0.875000 L 114.812500 3.250000 L 117.125000 6.750000 L 117.750000 8.812500 L 118.000000 11.000000 L 118.000000 36.000000 L 117.750000 38.250000 L 117.125000 40.312500 L 114.812500 43.812500 L 111.312500 46.125000 L 109.250000 46.750000 L 107.000000 47.000000 L 11.000000 47.000000 L 8.875000 46.812500 L 6.812500 46.187500 L 4.937500 45.187500 L 3.250000 43.812500 L 1.875000 42.125000 L 0.875000 40.250000 L 0.187500 38.187500 L 0.000000 36.000000 L 0.000000 11.000000 L 0.250000 8.812500 L 0.875000 6.750000 L 3.250000 3.250000 L 6.750000 0.875000 L 8.812500 0.250000 L 11.000000 0.000000 z"}
+,
+"image320611":{"x":0,"y":0,"w":785,"h":442,"bOffBottom":0,"i":"images/17a.jpg"}
+,
+"RCDResetQuestion":function(){
+try{if(window.dragMgr)window.dragMgr.clearDropZones();}catch(e){if(e&&e.message)console.log(e.message);}
+}
+,
+"RCDResultResize":function(){}
+,"preload":[]
+},
+"480":{
+"pageLayer":{"w":480,"h":763,"bgColor":"#f9cb9c"}
+,
+"button321333":{"x":204,"y":714,"w":73.000000,"h":30.000000,"stylemods":[{"sel":"div.button321333Text","decl":" { position:fixed; left:3px; top:2px; width:66px; height:25px;}"},{"sel":"span.button321333Text","decl":" { display:table-cell; position:relative; width:66px; height:25px; vertical-align:middle; text-align:center; line-height:4px; font-size:4px; font-family:\"Lucida Sans Unicode\"; color:#ffffff;}"}],"bOffBottom":0  ,"td": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEkAAAAeCAYAAABg+DOTAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAfSURBVGhD7cExAQAAAMKg9U/tbwYgAAAAAAAAAAA4NSJWAAH07qpkAAAAAElFTkSuQmCC" ,"tdO": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEkAAAAeCAYAAABg+DOTAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAfSURBVGhD7cExAQAAAMKg9U/tbwYgAAAAAAAAAAA4NSJWAAH07qpkAAAAAElFTkSuQmCC" ,"tdD": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEsAAAAgCAYAAABafYVzAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAgSURBVGhD7cExAQAAAMKg9U9tCj8gAAAAAAAAAAAADmoloAABChGmzQAAAABJRU5ErkJggg==" ,"tdDi": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEkAAAAeCAYAAABg+DOTAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAfSURBVGhD7cExAQAAAMKg9U/tbwYgAAAAAAAAAAA4NSJWAAH07qpkAAAAAElFTkSuQmCC"  ,"fd": "" ,"fdO": "" ,"fdD": "" ,"fdDi": "" ,"p": "M 7.000000 0.000000 L 65.000000 0.000000 L 67.750000 0.562500 L 69.937500 2.062500 L 71.437500 4.312500 L 72.000000 7.000000 L 72.000000 22.000000 L 71.437500 24.750000 L 69.937500 26.937500 L 67.750000 28.437500 L 65.000000 29.000000 L 7.000000 29.000000 L 4.375000 28.500000 L 2.062500 27.000000 L 0.562500 24.687500 L 0.000000 22.000000 L 0.000000 7.000000 L 0.562500 4.312500 L 2.062500 2.062500 L 4.312500 0.562500 L 7.000000 0.000000 z"}
+,
+"image320611":{"x":0,"y":0,"w":480,"h":270,"bOffBottom":0,"i":"images/17a.jpg"}
+,
+"RCDResetQuestion":function(){
+try{if(window.dragMgr)window.dragMgr.clearDropZones();}catch(e){if(e&&e.message)console.log(e.message);}
+}
+,
+"RCDResultResize":function(){}
+,"preload":[]
+}}

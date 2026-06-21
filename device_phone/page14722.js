@@ -1,0 +1,28 @@
+PhoneResponsive={"785":{
+"pageLayer":{"w":785,"h":450,"bgColor":"#f9cb9c"}
+,
+"button14771":{"x":333,"y":351,"w":118.000000,"h":46.000000,"stylemods":[{"sel":"div.button14771Text","decl":" { position:fixed; left:4px; top:2px; width:109px; height:41px;}"},{"sel":"span.button14771Text","decl":" { display:table-cell; position:relative; width:109px; height:41px; vertical-align:middle; text-align:center; line-height:7px; font-size:7px; font-family:\"Lucida Sans Unicode\"; color:#ffffff;}"}],"bOffBottom":0  ,"td": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHYAAAAuCAYAAAD9eu2LAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAsSURBVHhe7cExAQAAAMKg9U9tCj8gAAAAAAAAAAAAAAAAAAAAAAAAAACAgxpU/gAB2XqxQQAAAABJRU5ErkJggg==" ,"tdO": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHYAAAAuCAYAAAD9eu2LAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAsSURBVHhe7cExAQAAAMKg9U9tCj8gAAAAAAAAAAAAAAAAAAAAAAAAAACAgxpU/gAB2XqxQQAAAABJRU5ErkJggg==" ,"tdD": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHgAAAAwCAYAAADab77TAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAtSURBVHhe7cExAQAAAMKg9U9tDB8gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAI5qWjAAAe7Vo8oAAAAASUVORK5CYII=" ,"tdDi": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHYAAAAuCAYAAAD9eu2LAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAsSURBVHhe7cExAQAAAMKg9U9tCj8gAAAAAAAAAAAAAAAAAAAAAAAAAACAgxpU/gAB2XqxQQAAAABJRU5ErkJggg=="  ,"fd": "" ,"fdO": "" ,"fdD": "" ,"fdDi": "" ,"p": "M 11.000000 0.000000 L 106.000000 0.000000 L 108.250000 0.250000 L 110.312500 0.875000 L 113.812500 3.250000 L 116.125000 6.750000 L 116.750000 8.812500 L 117.000000 11.000000 L 117.000000 34.000000 L 116.750000 36.250000 L 116.125000 38.312500 L 113.812500 41.812500 L 110.312500 44.125000 L 108.250000 44.750000 L 106.000000 45.000000 L 11.000000 45.000000 L 8.875000 44.812500 L 6.812500 44.187500 L 4.937500 43.187500 L 3.250000 41.812500 L 1.875000 40.125000 L 0.875000 38.250000 L 0.187500 36.187500 L 0.000000 34.000000 L 0.000000 11.000000 L 0.250000 8.812500 L 0.875000 6.750000 L 3.250000 3.250000 L 6.750000 0.875000 L 8.812500 0.250000 L 11.000000 0.000000 z"}
+,
+"image14727":{"x":0,"y":0,"w":785,"h":442,"bOffBottom":0,"i":"images/copy_of_desain_awal_plsv_journey.png"}
+,
+"RCDResetQuestion":function(){
+try{if(window.dragMgr)window.dragMgr.clearDropZones();}catch(e){if(e&&e.message)console.log(e.message);}
+}
+,
+"RCDResultResize":function(){}
+,"preload":[]
+},
+"480":{
+"pageLayer":{"w":480,"h":763,"bgColor":"#f9cb9c"}
+,
+"button14771":{"x":204,"y":716,"w":73.000000,"h":29.000000,"stylemods":[{"sel":"div.button14771Text","decl":" { position:fixed; left:3px; top:2px; width:66px; height:24px;}"},{"sel":"span.button14771Text","decl":" { display:table-cell; position:relative; width:66px; height:24px; vertical-align:middle; text-align:center; line-height:4px; font-size:4px; font-family:\"Lucida Sans Unicode\"; color:#ffffff;}"}],"bOffBottom":0  ,"td": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEkAAAAdCAYAAADmbEE9AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAeSURBVGhD7cEBAQAAAIIg/69uSEAAAAAAAAAAAF9qITEAAXgUY58AAAAASUVORK5CYII=" ,"tdO": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEkAAAAdCAYAAADmbEE9AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAeSURBVGhD7cEBAQAAAIIg/69uSEAAAAAAAAAAAF9qITEAAXgUY58AAAAASUVORK5CYII=" ,"tdD": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEsAAAAfCAYAAACvUTALAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAgSURBVGhD7cGBAAAAAMOg+VNf4QBVAAAAAAAAAAAArxokcwABv6AeLgAAAABJRU5ErkJggg==" ,"tdDi": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEkAAAAdCAYAAADmbEE9AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAeSURBVGhD7cEBAQAAAIIg/69uSEAAAAAAAAAAAF9qITEAAXgUY58AAAAASUVORK5CYII="  ,"fd": "" ,"fdO": "" ,"fdD": "" ,"fdDi": "" ,"p": "M 7.000000 0.000000 L 65.000000 0.000000 L 67.750000 0.562500 L 69.937500 2.062500 L 71.437500 4.312500 L 72.000000 7.000000 L 72.000000 21.000000 L 71.437500 23.750000 L 69.937500 25.937500 L 67.750000 27.437500 L 65.000000 28.000000 L 7.000000 28.000000 L 4.375000 27.500000 L 2.062500 26.000000 L 0.562500 23.687500 L 0.000000 21.000000 L 0.000000 7.000000 L 0.562500 4.312500 L 2.062500 2.062500 L 4.312500 0.562500 L 7.000000 0.000000 z"}
+,
+"image14727":{"x":0,"y":0,"w":480,"h":270,"bOffBottom":0,"i":"images/copy_of_desain_awal_plsv_journey.png"}
+,
+"RCDResetQuestion":function(){
+try{if(window.dragMgr)window.dragMgr.clearDropZones();}catch(e){if(e&&e.message)console.log(e.message);}
+}
+,
+"RCDResultResize":function(){}
+,"preload":[]
+}}

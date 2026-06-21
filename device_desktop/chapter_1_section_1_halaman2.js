@@ -1,0 +1,12 @@
+DesktopResponsive={"1009":{
+"pageLayer":{"w":1920,"h":1080,"bgColor":"#f9cb9c"}
+,
+"image1111":{"x":0,"y":0,"w":1920,"h":1080,"bOffBottom":0,"i":"images/desain_awal_plsv_journey_3_.png"}
+,
+"RCDResetQuestion":function(){
+try{if(window.dragMgr)window.dragMgr.clearDropZones();}catch(e){if(e&&e.message)console.log(e.message);}
+}
+,
+"RCDResultResize":function(){}
+,"preload":['images/desain_awal_plsv_journey_3_.png']
+}}

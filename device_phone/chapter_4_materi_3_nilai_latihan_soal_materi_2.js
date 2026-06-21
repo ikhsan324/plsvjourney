@@ -1,0 +1,36 @@
+PhoneResponsive={"785":{
+"pageLayer":{"w":785,"h":468,"bgColor":"#f9cb9c"}
+,
+"button354072":{"x":337,"y":348,"w":111.000000,"h":50.000000,"stylemods":[{"sel":"div.button354072Text","decl":" { position:fixed; left:5px; top:2px; width:100px; height:45px;}"},{"sel":"span.button354072Text","decl":" { display:table-cell; position:relative; width:100px; height:45px; vertical-align:middle; text-align:center; line-height:7px; font-size:7px; font-family:\"Lucida Sans Unicode\"; color:#ffffff;}"}],"bOffBottom":0  ,"td": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAG8AAAAyCAYAAABS1YVJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAtSURBVHhe7cExAQAAAMKg9U9tCF8gAAAAAAAAAAAAAAAAAAAAAAAAAAAAONQAVuoAAeJYVtEAAAAASUVORK5CYII=" ,"tdO": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAG8AAAAyCAYAAABS1YVJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAtSURBVHhe7cExAQAAAMKg9U9tCF8gAAAAAAAAAAAAAAAAAAAAAAAAAAAAONQAVuoAAeJYVtEAAAAASUVORK5CYII=" ,"tdD": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHEAAAA0CAYAAAC969cPAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAuSURBVHhe7cExAQAAAMKg9U9tCU8gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOCoBlwEAAGqxPCvAAAAAElFTkSuQmCC" ,"tdDi": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAG8AAAAyCAYAAABS1YVJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAtSURBVHhe7cExAQAAAMKg9U9tCF8gAAAAAAAAAAAAAAAAAAAAAAAAAAAAONQAVuoAAeJYVtEAAAAASUVORK5CYII="  ,"fd": "" ,"fdO": "" ,"fdD": "" ,"fdDi": "" ,"p": "M 12.000000 0.000000 L 98.000000 0.000000 L 100.437500 0.250000 L 102.687500 0.937500 L 104.750000 2.062500 L 106.500000 3.500000 L 107.937500 5.312500 L 109.062500 7.312500 L 109.750000 9.562500 L 110.000000 12.000000 L 110.000000 37.000000 L 109.750000 39.437500 L 109.062500 41.687500 L 107.937500 43.750000 L 106.500000 45.500000 L 104.750000 46.937500 L 102.687500 48.062500 L 100.437500 48.750000 L 98.000000 49.000000 L 12.000000 49.000000 L 9.687500 48.750000 L 7.437500 48.125000 L 5.375000 47.000000 L 3.562500 45.500000 L 2.062500 43.687500 L 0.937500 41.625000 L 0.250000 39.375000 L 0.000000 37.000000 L 0.000000 12.000000 L 0.250000 9.562500 L 0.937500 7.312500 L 2.062500 5.312500 L 3.500000 3.500000 L 5.312500 2.062500 L 7.312500 0.937500 L 9.562500 0.250000 L 12.000000 0.000000 z"}
+,
+"image354065":{"x":0,"y":0,"w":785,"h":442,"bOffBottom":0,"i":"images/copy_of_desain_awal_plsv_journey_27_.jpg"}
+,
+"text354066":{"x":249,"y":145,"w":438,"h":98,"txtscale":100,"bOffBottom":0}
+,
+"text354067":{"x":157,"y":185,"w":470,"h":283,"txtscale":100,"bOffBottom":0}
+,
+"RCDResetQuestion":function(){
+try{if(window.dragMgr)window.dragMgr.clearDropZones();}catch(e){if(e&&e.message)console.log(e.message);}
+}
+,
+"RCDResultResize":function(){}
+,"preload":[]
+},
+"480":{
+"pageLayer":{"w":480,"h":763,"bgColor":"#f9cb9c"}
+,
+"button354072":{"x":206,"y":710,"w":68.000000,"h":31.000000,"stylemods":[{"sel":"div.button354072Text","decl":" { position:fixed; left:3px; top:2px; width:61px; height:26px;}"},{"sel":"span.button354072Text","decl":" { display:table-cell; position:relative; width:61px; height:26px; vertical-align:middle; text-align:center; line-height:4px; font-size:4px; font-family:\"Lucida Sans Unicode\"; color:#ffffff;}"}],"bOffBottom":0  ,"td": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEQAAAAfCAYAAABeWmuGAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAfSURBVGhD7cEBDQAAAMKg909tDwcEAAAAAAAAAPCkBiEPAAFL3HXwAAAAAElFTkSuQmCC" ,"tdO": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEQAAAAfCAYAAABeWmuGAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAfSURBVGhD7cEBDQAAAMKg909tDwcEAAAAAAAAAPCkBiEPAAFL3HXwAAAAAElFTkSuQmCC" ,"tdD": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEYAAAAhCAYAAABk391mAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAfSURBVGhD7cEBAQAAAIIg/69uSEAAAAAAAAAAAMCbGiQ5AAGBFEigAAAAAElFTkSuQmCC" ,"tdDi": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEQAAAAfCAYAAABeWmuGAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAfSURBVGhD7cEBDQAAAMKg909tDwcEAAAAAAAAAPCkBiEPAAFL3HXwAAAAAElFTkSuQmCC"  ,"fd": "" ,"fdO": "" ,"fdD": "" ,"fdDi": "" ,"p": "M 7.000000 0.000000 L 60.000000 0.000000 L 62.750000 0.562500 L 64.937500 2.062500 L 66.437500 4.312500 L 67.000000 7.000000 L 67.000000 23.000000 L 66.437500 25.750000 L 64.937500 27.937500 L 62.750000 29.437500 L 60.000000 30.000000 L 7.000000 30.000000 L 4.375000 29.500000 L 2.062500 28.000000 L 0.562500 25.687500 L 0.000000 23.000000 L 0.000000 7.000000 L 0.562500 4.312500 L 2.062500 2.062500 L 4.312500 0.562500 L 7.000000 0.000000 z"}
+,
+"image354065":{"x":0,"y":0,"w":480,"h":270,"bOffBottom":0,"i":"images/copy_of_desain_awal_plsv_journey_27_.jpg"}
+,
+"text354066":{"x":152,"y":296,"w":268,"h":98,"txtscale":100,"bOffBottom":0}
+,
+"text354067":{"x":96,"y":378,"w":287,"h":283,"txtscale":100,"bOffBottom":0}
+,
+"RCDResetQuestion":function(){
+try{if(window.dragMgr)window.dragMgr.clearDropZones();}catch(e){if(e&&e.message)console.log(e.message);}
+}
+,
+"RCDResultResize":function(){}
+,"preload":[]
+}}
